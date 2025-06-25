@@ -5,13 +5,13 @@ A simple Todo List application built using modern web development tools.
 
 ✨ Features
 
-Add Todo: Type a task and click the + button to add it to the list.
+- Add Todo: Type a task and click the + button to add it to the list.
 
-Delete Todo: Click the 🗑 icon to remove a todo.
+- Delete Todo: Click the 🗑 icon to remove a todo.
 
-Mark as Completed: Click the circle icon to move a todo to the completed section.
+- Mark as Completed: Click the circle icon to move a todo to the completed section.
 
-Mark as Favorite: Click the ⭐ to pin important todos at the top.
+- Mark as Favorite: Click the ⭐ to pin important todos at the top.
 
 ![Todo List Screenshot](./src/assets/todo-app-img.JPG)
 
