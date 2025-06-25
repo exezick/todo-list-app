@@ -2,6 +2,8 @@
 
 A simple Todo List application built using modern web development tools.
 
+![Todo List Screenshot](./src/assets/todo-app-img.JPG)
+
 ## 🛠 Tech Stack
 
 - React
