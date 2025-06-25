@@ -2,7 +2,9 @@
 
 A simple Todo List application built using modern web development tools.
 
+
 ✨ Features
+
 Add Todo: Type a task and click the + button to add it to the list.
 
 Delete Todo: Click the 🗑 icon to remove a todo.
